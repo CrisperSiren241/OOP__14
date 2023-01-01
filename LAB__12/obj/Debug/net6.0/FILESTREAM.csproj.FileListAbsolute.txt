@@ -1,0 +1,15 @@
+D:\BSTU\ООП\FILESTREAM\bin\Debug\net6.0\FILESTREAM.exe
+D:\BSTU\ООП\FILESTREAM\bin\Debug\net6.0\FILESTREAM.deps.json
+D:\BSTU\ООП\FILESTREAM\bin\Debug\net6.0\FILESTREAM.runtimeconfig.json
+D:\BSTU\ООП\FILESTREAM\bin\Debug\net6.0\FILESTREAM.dll
+D:\BSTU\ООП\FILESTREAM\bin\Debug\net6.0\FILESTREAM.pdb
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\FILESTREAM.csproj.AssemblyReference.cache
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\FILESTREAM.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\FILESTREAM.AssemblyInfoInputs.cache
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\FILESTREAM.AssemblyInfo.cs
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\FILESTREAM.csproj.CoreCompileInputs.cache
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\FILESTREAM.dll
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\refint\FILESTREAM.dll
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\FILESTREAM.pdb
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\FILESTREAM.genruntimeconfig.cache
+D:\BSTU\ООП\FILESTREAM\obj\Debug\net6.0\ref\FILESTREAM.dll
