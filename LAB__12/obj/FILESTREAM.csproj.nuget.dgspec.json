@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BSTU\\ООП\\FILESTREAM\\FILESTREAM.csproj": {}
+    "C:\\Users\\user\\Desktop\\OOP__14\\LAB__12\\FILESTREAM.csproj": {}
   },
   "projects": {
-    "D:\\BSTU\\ООП\\FILESTREAM\\FILESTREAM.csproj": {
+    "C:\\Users\\user\\Desktop\\OOP__14\\LAB__12\\FILESTREAM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BSTU\\ООП\\FILESTREAM\\FILESTREAM.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\OOP__14\\LAB__12\\FILESTREAM.csproj",
         "projectName": "FILESTREAM",
-        "projectPath": "D:\\BSTU\\ООП\\FILESTREAM\\FILESTREAM.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\OOP__14\\LAB__12\\FILESTREAM.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\BSTU\\ООП\\FILESTREAM\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\OOP__14\\LAB__12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

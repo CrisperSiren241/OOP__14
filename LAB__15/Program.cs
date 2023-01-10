@@ -14,7 +14,6 @@ namespace lab15
         static void Main(string[] args)
         {
             TPL.ParallelVectorByNumber();
-
             TPL.ParallelVectorByNumberWithTocken();
             TPL.Continuation();
             TPL.ParallelFor();

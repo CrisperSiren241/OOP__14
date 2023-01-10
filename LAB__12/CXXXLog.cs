@@ -12,7 +12,7 @@ namespace FILESTREAM
         {
             if(path != null)
             {
-                File.AppendAllText("log.text", $"{DateTime.Now}: {info}");
+                File.AppendAllText("newtext.txt", $"{DateTime.Now}: {info}");
             }
             else
             {

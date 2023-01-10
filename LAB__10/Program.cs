@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 using System.Linq;
-
+using System.Reflection;
 
 namespace Lab10
 {
@@ -139,6 +139,8 @@ namespace Lab10
                 Console.WriteLine($"{member.Name} - {member.GroupNumber} - {member.GroupName}");
             }
 
+            GetInfo();
+
         }
 
 
@@ -146,7 +148,10 @@ namespace Lab10
 
         public partial class Book
         {
-            
+
+            public string Text { get; }
+            public Book(string text) => Text = text;
+            public void Print() => Console.WriteLine(Text);
             static int count { get; set; }// счётчик
 
             private string? name { get; set; }// название
@@ -315,6 +320,10 @@ namespace Lab10
             Console.WriteLine($"Пространство имён: {myType.Namespace}");
             Console.WriteLine($"Является ли структурой: {myType.IsValueType}");
             Console.WriteLine($"Является ли классом: {myType.IsClass}");
+            Console.WriteLine($"Метод Invoke:");
+            var myBook = new Book("ЭТО ТЕКСТ");
+            var print = typeof(Book).GetMethod("Print");
+            print?.Invoke(myBook, parameters: null); 
         }
 
 

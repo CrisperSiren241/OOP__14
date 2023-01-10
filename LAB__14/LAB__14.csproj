@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap">
+      <HintPath>D:\BSTU\ООП\OOP__4\System.Runtime.Serialization.Formatters.Soap.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
