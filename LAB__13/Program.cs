@@ -299,7 +299,7 @@ namespace Laba4
             }
 
             BinaryFormatter formatter = new BinaryFormatter();
-            using (FileStream fs = new FileStream("flint.dat", FileMode.OpenOrCreate))
+            using (FileStream fs = new FileStream("Dflint.dat", FileMode.OpenOrCreate))
             {
                 formatter.Serialize(fs, bird);
                 Console.WriteLine("Объект сериализован");
